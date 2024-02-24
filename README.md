@@ -1,6 +1,7 @@
 # Uber-Ride-Sharing-Case-Study
-![image](https://github.com/balalabyte/Uber-Ride-Sharing-Case-Study/assets/60688697/15a0ff5f-6343-49b6-a006-41f9eb3c47e6)
+TL;DR: The analysis of ride-sharing data, focusing on Commute vs. Non-Commute Hours and Treatment vs. Control Groups, revealed significant patterns. Commuting hours see more ride-sharing trips, with varied profitability and service preferences. Treatment vs. Control Groups showed nuanced impacts on user behavior and highlighted sensitivity to wait times. Kernel density estimation illustrated cancellation rate variations. Rigorous statistical testing confirmed complexities in user preferences, offering valuable operational insights for ride-sharing companies to optimize services and enhance satisfaction and profitability.
 
+![image](https://github.com/balalabyte/Uber-Ride-Sharing-Case-Study/assets/60688697/15a0ff5f-6343-49b6-a006-41f9eb3c47e6)
 
 ## Project Overview
 
