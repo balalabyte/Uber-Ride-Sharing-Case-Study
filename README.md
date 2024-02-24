@@ -1,5 +1,6 @@
 # Uber-Ride-Sharing-Case-Study
-![image](https://github.com/balalabyte/Uber-Ride-Sharing-Case-Study/assets/60688697/91ff85f7-886c-4572-ae0b-66a3cda4c1d7)
+![image](https://github.com/balalabyte/Uber-Ride-Sharing-Case-Study/assets/60688697/15a0ff5f-6343-49b6-a006-41f9eb3c47e6)
+
 
 ## Project Overview
 
