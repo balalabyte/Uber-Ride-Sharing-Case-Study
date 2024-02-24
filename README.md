@@ -30,6 +30,7 @@ The analysis is based on a dataset that includes details on trips, cancellations
 ### 3. Kernel Density Estimation of Cancellation Rates
 
 - **Distribution of Cancellation Rates**: Utilizing kernel density estimation, the study explored the distribution of cancellation rates during commuting and non-commuting hours. This approach revealed distinct patterns in cancellation behaviors, with commuting hours showing a wider range of cancellation rates. These findings suggest that users' tolerance for wait times and other service factors varies significantly during peak periods.
+![image](https://github.com/balalabyte/Uber-Ride-Sharing-Case-Study/assets/60688697/48f3d3e9-f515-4794-905a-5b988ee29d7f)
 
 ### 4. Statistical Significance and Implications
 
